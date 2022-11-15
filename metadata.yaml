@@ -1,0 +1,46 @@
+_repo: Anti-Slavery-Monthly-Reporter-March-1829_69241
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Society for the Mitigation and Gradual Abolition of Slavery Throughout
+      the British Dominions
+    aliases:
+    - London Society for the Mitigation and Abolition of Slavery in the British Dominions
+    - Society for Mitigating and Gradually Abolishing the State of Slavery Throughout
+      the British Dominions
+    - London Society for Mitigating and Gradually Abolishing the State of Slavery
+      Throughout the British Dominions
+    - Society for the Abolition of Slavery Throughout the British Dominions
+    - 'Anti-slavery Society (Great Britain : 1823)'
+    gutenberg_agent_id: '55172'
+    url: http://www.gutenberg.org/2009/agents/55172
+    wikipedia: https://en.wikipedia.org/wiki/Anti-Slavery_Society_(1823%E2%80%931838)
+  editor:
+    agent_name: Macaulay, Zachary
+    birthdate: 1768
+    deathdate: 1838
+    gutenberg_agent_id: '55171'
+    url: http://www.gutenberg.org/2009/agents/55171
+    wikipedia: https://en.wikipedia.org/wiki/Zachary_Macaulay
+description: ''
+gutenberg_issued: '2022-10-26'
+identifiers:
+  gutenberg: '69241'
+language: en
+pgterms:marc905: 20220212153449listed
+pgterms:marc906: '1829'
+pgterms:marc907: GB
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: 'United Kingdom: The London Society for the Mitigation and Abolition
+  of Slavery,1829.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Slavery -- Commonwealth countries -- Periodicals'
+- !lcsh 'Antislavery movements -- Great Britain -- Periodicals'
+- !lcc 'HT'
+- GITenberg
+title: Anti-Slavery Monthly Reporter, March 1829
+url: http://www.gutenberg.org/ebooks/69241
